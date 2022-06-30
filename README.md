@@ -11,6 +11,12 @@ The API is open to any changes or improvements.
 
 The official library at https://www.npmjs.com/package/web3.storage could be used as a baseline for such improvements.
 
+## installation
+
+```
+python3 -m pip install w3storage
+```
+
 ## examples
 
 ```python
