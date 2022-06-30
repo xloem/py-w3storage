@@ -1,6 +1,6 @@
 # py-w3
 
-This is a reimplementation of the web3.storage HTTP api.
+This is a reimplementation of a python client for the web3.storage HTTP api.
 
 There is an existing implementation at https://pypi.org/project/web3storage, but at the time of writing it did not have an
 associated public source repository.
